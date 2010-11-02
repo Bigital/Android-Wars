@@ -7,6 +7,9 @@ public class Playstate extends RokonActivity {
 
     //public static final float GAME_WIDTH = 480f;
     //public static final float GAME_HEIGHT = 320f;
+	
+	// If you see this, it means I successfully pushed it! Whooottt1!!11112
+	
 	public static final float GAME_WIDTH = 320f;
 	public static final float GAME_HEIGHT = 480f;
 	
